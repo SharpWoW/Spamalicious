@@ -1,0 +1,10 @@
+## Interface: 50400
+## Version: @project-version@
+## Title: !Spamalicious
+## Notes: Hides on-load spam from AddOns.
+## Author: Sharparam
+## SavedVariables: SPAMALICIOUS
+## SavedVariablesPerCharacter: SPAMALICIOUS_CHAR
+
+log.lua
+main.lua
